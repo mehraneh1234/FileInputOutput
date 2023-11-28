@@ -1,0 +1,12 @@
+# Mehraneh 30062786
+# AT3.1 
+# Pseudo Code
+
+string1 = "Python has been an important part of Google since the beginning,
+ and remains so as the system grows and evolves."
+string2 = "Today dozens of Google engineers use Python, and we're looking for
+ more people with skills in this language." said Peter Norvig, director of search quality at Google, Inc."
+output_string = string1 + string2
+WRITE output_string, Python.txt
+READ input_string, Python.txt
+WRITE input_string
